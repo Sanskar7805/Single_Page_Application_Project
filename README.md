@@ -17,8 +17,6 @@ There are several solutions tested here:
 
 The static build of all solutions is hosted [on the github pages of this repo](https://mkrtchian.github.io/react-nextjs-dom-benchmark/) (the pages take several seconds to load on a normal computer, so maybe avoid clicking on them if on mobile or so).
 
-The idea comes initially from [a stackoverflow question](https://stackoverflow.com/questions/66248219/react-single-page-apps-and-the-browsers-back-button/) and some discussion around. My results and interpretation is described there.
-
 There is some CSS to make the elements small enough to see all of them on the screen, and compare how would the browser update the display.
 
 ## Build and deploy the apps
