@@ -15,7 +15,7 @@ There are several solutions tested here:
 * Next.js with next's page routing
 * A CSS solution with React and `overflow: hidden; height: 0px;` on the big component to hide it
 
-The static build of all solutions is hosted [on the github pages of this repo](https://mkrtchian.github.io/react-nextjs-dom-benchmark/) (the pages take several seconds to load on a normal computer, so maybe avoid clicking on them if on mobile or so).
+The static build of all solutions is hosted [on the github pages of this repo](https://sanskar7805.github.io/Single_Page_Application_Project) (the pages take several seconds to load on a normal computer, so maybe avoid clicking on them if on mobile or so).
 
 There is some CSS to make the elements small enough to see all of them on the screen, and compare how would the browser update the display.
 
